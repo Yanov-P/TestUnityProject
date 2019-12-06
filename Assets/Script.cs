@@ -9,7 +9,6 @@ public class Script : MonoBehaviour
     {
     //Миша всё не очень давай по новой
         Debug.Log("afawf");
-        Debug.Log("aeffewv");
     }
 
     // Update is called once per frame
