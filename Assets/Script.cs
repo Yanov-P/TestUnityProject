@@ -8,6 +8,7 @@ public class Script : MonoBehaviour
     void Start()
     {
     //Миша всё не очень давай по новой
+    //Миша как дела?
         Debug.Log("afawf");
         Debug.Log("aeffewv");
     }
